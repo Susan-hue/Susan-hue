@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Susan-hue](https://github.com/Susan-hue)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, aws **
 
 - 📫 How to reach me **amechisusanogechi@gmail.com**
 
