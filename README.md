@@ -145,7 +145,7 @@ I'm a Junior DevOps & Cloud Engineer based in Owerri, Nigeria, currently extendi
 
 ## Core Competencies
 
-​``` `
+<pre>
 Linux & Server Hardening   █████████████████░░░  Ubuntu · SSH · UFW · sudoers
 Cloud Deployment           ███████████████░░░░░  AWS · Oracle Cloud · Elastic IP
 Web & Networking           █████████████████░░░  Nginx · DNS · TLS · iptables
@@ -153,7 +153,7 @@ Scripting & Automation     █████████████████�
 Containerization           ████████████████░░░░  Docker · Docker Compose
 CI/CD Pipelines            ███████████████░░░░░  GitHub Actions · Branch Protection
 Backend Development        ████████████░░░░░░░░  Node.js · Express · Django (learning)
-​````
+</pre>
 
 ---
 
