@@ -1,29 +1,73 @@
-Hi, I'm Susan 👋
-I'm a Junior DevOps & Cloud Engineer and aspiring Backend Developer based in Owerri, Nigeria. I build, secure, and deploy systems on Linux, mostly in Python, Bash, and Node.js, and I'm currently extending into backend development with Django and PostgreSQL.
-
-What I'm building
-Sentinel — Real-Time DDoS Detection Engine
-A Python daemon that detects and mitigates DDoS attacks in real time. Uses sliding-window request analysis and z-score anomaly detection, blocks malicious IPs through iptables with a tiered backoff schedule, and alerts on Slack. Containerized with Docker Compose and deployed live on an Oracle Cloud VPS. Technical write-up here.
-FUTO Aid — CI/CD & Cloud Infrastructure (private repo)
-Student donation platform where I own the DevOps work: GitHub Actions CI for a Django + React stack, staging on Render and Vercel, branch protection, and managed PostgreSQL on the backend.
-HNG Stage 1 API
-Node.js and Express REST API behind an Nginx reverse proxy, kept alive with systemd on a hardened Ubuntu EC2 instance with auto-renewing TLS. Scored a perfect 10/10 on HNG grading.
-
-Tech I work with
-
-Cloud & Infrastructure: AWS (EC2, S3, IAM), Oracle Cloud, Linux administration and server hardening
-Containers & CI/CD: Docker, Docker Compose, GitHub Actions, Git
-Web & Networking: Nginx, systemd, DNS, SSL/TLS (Certbot), UFW, iptables
-Backend: Django (learning), Node.js, Express, REST APIs
-Databases: PostgreSQL, MongoDB, MySQL
-Languages: Python, JavaScript, Bash, SQL
-
-
-Currently learning
-Django and Django REST Framework, and going deeper on Linux internals.
-
-Find me
-
-Blog: susan-amechi.hashnode.dev
-LinkedIn: Susan Amechi
-Email: amechisusanogechi@gmail.com
+Susan Amechi
+Junior DevOps & Cloud Engineer | Aspiring Backend Developer
+Building, securing, and deploying production-ready systems on Linux
+� � �
+Load image
+Load image
+Load image
+About Me
+I'm a Junior DevOps & Cloud Engineer based in Owerri, Nigeria, currently extending into backend development with Django. My work focuses on deploying secure, automated systems on Linux: hardened servers, containerized services, real-time monitoring, and CI/CD pipelines that catch problems before production does.
+Built and shipped Sentinel, a real-time DDoS detection engine running live on Oracle Cloud
+Hardened AWS EC2 infrastructure with key-based SSH, UFW firewall, and least-privilege sudo
+Currently owning CI/CD and cloud infrastructure for a Django + React student platform
+Security-first mindset: SSH hardening, firewall configuration, TLS automation, structured audit logging
+Tech Stack
+Cloud Platforms
+� �
+Load image
+Load image
+Containers
+� �
+Load image
+Load image
+CI/CD & Automation
+� �
+Load image
+Load image
+Web & Networking
+� � � �
+Load image
+Load image
+Load image
+Load image
+Backend
+� � �
+Load image
+Load image
+Load image
+Databases
+� � �
+Load image
+Load image
+Load image
+Languages & Scripting
+� � � �
+Load image
+Load image
+Load image
+Load image
+Core Competencies
+Code
+What I Build
+Area
+Details
+Linux Infrastructure
+Hardened Ubuntu servers with key-based SSH, UFW firewall, and least-privilege sudo
+Cloud Deployment
+AWS EC2 and Oracle Cloud VPS with Elastic IPs, managed DNS, and auto-renewing TLS
+Containerization
+Docker Compose stacks running production services behind Nginx
+CI/CD Automation
+GitHub Actions workflows for Django + React, test gates and auto-deploy to staging
+Real-Time Monitoring
+Custom Python daemons for log analysis, anomaly detection, and Slack alerting
+Security Hardening
+SSH controls, iptables rules, structured audit logging, secrets management
+Let's Connect
+I'm open to DevOps and Cloud internships, junior engineering roles, and collaborations on infrastructure or backend projects.
+If you need a junior engineer who'll show up, ship, and learn fast, let's talk.
+� � �
+Load image
+Load image
+Load image
+Building in public · Always learning · Open to opportunities
