@@ -1,30 +1,29 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) 
-<h1 align="center">Hi 👋, I'm Susan Amechi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt ="coding gif" width = "400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" >
+Hi, I'm Susan 👋
+I'm a Junior DevOps & Cloud Engineer and aspiring Backend Developer based in Owerri, Nigeria. I build, secure, and deploy systems on Linux, mostly in Python, Bash, and Node.js, and I'm currently extending into backend development with Django and PostgreSQL.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susan-hue&label=Profile%20views&color=0e75b6&style=flat" alt="susan-hue" /> </p>
+What I'm building
+Sentinel — Real-Time DDoS Detection Engine
+A Python daemon that detects and mitigates DDoS attacks in real time. Uses sliding-window request analysis and z-score anomaly detection, blocks malicious IPs through iptables with a tiered backoff schedule, and alerts on Slack. Containerized with Docker Compose and deployed live on an Oracle Cloud VPS. Technical write-up here.
+FUTO Aid — CI/CD & Cloud Infrastructure (private repo)
+Student donation platform where I own the DevOps work: GitHub Actions CI for a Django + React stack, staging on Render and Vercel, branch protection, and managed PostgreSQL on the backend.
+HNG Stage 1 API
+Node.js and Express REST API behind an Nginx reverse proxy, kept alive with systemd on a hardened Ubuntu EC2 instance with auto-renewing TLS. Scored a perfect 10/10 on HNG grading.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susan-hue" alt="susan-hue" /></a> </p>
+Tech I work with
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Cloud & Infrastructure: AWS (EC2, S3, IAM), Oracle Cloud, Linux administration and server hardening
+Containers & CI/CD: Docker, Docker Compose, GitHub Actions, Git
+Web & Networking: Nginx, systemd, DNS, SSL/TLS (Certbot), UFW, iptables
+Backend: Django (learning), Node.js, Express, REST APIs
+Databases: PostgreSQL, MongoDB, MySQL
+Languages: Python, JavaScript, Bash, SQL
 
-- 👨‍💻 All of my projects are available at [https://github.com/Susan-hue](https://github.com/Susan-hue)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, aws **
+Currently learning
+Django and Django REST Framework, and going deeper on Linux internals.
 
-- 📫 How to reach me **amechisusanogechi@gmail.com**
+Find me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susan-hue&show_icons=true&locale=en&layout=compact" alt="susan-hue" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susan-hue&show_icons=true&locale=en" alt="susan-hue" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susan-hue&" alt="susan-hue" /></p>
-
+Blog: susan-amechi.hashnode.dev
+LinkedIn: Susan Amechi
+Email: amechisusanogechi@gmail.com
